@@ -12,8 +12,8 @@ C *(mutexes)*\
 Java *(semaphores)*
 
 **Producers-Consumers**\
-Java *(synchronized with Monitor)*\
-C# *(lock with Monitor)*
+Java *(synchronized with monitor)*\
+C# *(lock with monitor)*
 
 **Sleeping Barber**\
 C# *(semaphores)*\
