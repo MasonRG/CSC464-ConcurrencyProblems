@@ -25,4 +25,4 @@ Python *(semaphores, barrier)*
 
 **Roller Coaster**\
 C *(semaphores)*\
-C# *(lock, semaphores)*
+C# *(lock with semaphores)*
