@@ -15,7 +15,7 @@ Java *(semaphores)*
 Java *(synchronized with Monitor)*\
 C# *(lock with Monitor)*
 
-**Barber Shop**\
+**Sleeping Barber**\
 C# *(semaphores)*\
 Python *(semaphores)*
 
