@@ -1,4 +1,4 @@
-# ClassicConcurrencyProblems
+# Classical Concurrency Problems
 Solutions for various classical concurrency problems using multiple languages (C, Java, C#, Python).\
 Completed as a course assignment for CSC464 at the University of Victoria, Fall 2018
 
