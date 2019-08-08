@@ -1,6 +1,6 @@
-# CSC486-ConcurrencyProblems
+# ClassicConcurrencyProblems
 Solutions for various classical concurrency problems using multiple languages (C, Java, C#, Python).\
-Completed for Assignment 1 of CSC464 at the University of Victoria, Fall 2018
+Completed as a course assignment for CSC464 at the University of Victoria, Fall 2018
 
 Problems and some solution strategies courtesy of:
 > *The Little Book of Semaphores*\
